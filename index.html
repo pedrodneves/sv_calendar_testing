@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8" />
-  <title>SV Operations Schedule</title>
+  <title>(Staging) SV Operations Schedule</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Canton "C" favicon (browser tab icon). -->
@@ -20,7 +20,7 @@
              alt="Canton Foundation" />
         <div class="header-divider"></div>
         <div class="header-titles">
-          <h1>SV Operations Schedule</h1>
+          <h1>(Staging) SV Operations Schedule</h1>
         </div>
       </div>
 
@@ -180,6 +180,14 @@
        DATA LOADING
        Fetch schedule.json (cache-busted) and initialise the UI.
        --------------------------------------------------------- */
+    // Take manual control of scroll restoration. By default browsers try to
+    // restore the previous scroll position on refresh, which races with the
+    // page's own render — that's why a refresh sometimes jumped to the top
+    // and sometimes didn't. Manual mode makes it consistent (loads at top).
+    if ('scrollRestoration' in history) {
+      history.scrollRestoration = 'manual';
+    }
+
     async function loadSchedule() {
       const response = await fetch('./schedule.json?cache=' + Date.now());
       allEvents = await response.json();
