@@ -110,5 +110,21 @@
     "minValidatorSpliceVersion": null,
     "minDarVersions": [],
     "dev": true
+  },
+  {
+    "id": "13070623136",
+    "title": "Cut Canton & WG release line for Splice 0.10.0 (if applicable)",
+    "start": "2026-10-12",
+    "end": "2026-10-12",
+    "description": "",
+    "status": "To Be Confirmed",
+    "network": "",
+    "type": "Release Cadence",
+    "category": "general",
+    "dependsOn": [],
+    "minorVersion": "0.10",
+    "minValidatorSpliceVersion": null,
+    "minDarVersions": [],
+    "dev": true
   }
 ]
