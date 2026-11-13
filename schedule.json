@@ -1,9 +1,9 @@
 [
   {
-    "id": "13546195333",
+    "id": "13546375560",
     "title": "DevNet upgrades to Splice 0.13.0",
-    "start": "2026-03-02",
-    "end": "2026-03-02",
+    "start": "2027-03-01",
+    "end": "2027-03-01",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -16,10 +16,10 @@
     "dev": false
   },
   {
-    "id": "13546311838",
+    "id": "13546390130",
     "title": "DevNet upgrades to Splice 0.13.1",
-    "start": "2026-03-09",
-    "end": "2026-03-09",
+    "start": "2027-03-08",
+    "end": "2027-03-08",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -32,10 +32,10 @@
     "dev": false
   },
   {
-    "id": "13546214314",
+    "id": "13546376085",
     "title": "DevNet upgrades to Splice 0.13.2",
-    "start": "2026-03-16",
-    "end": "2026-03-16",
+    "start": "2027-03-15",
+    "end": "2027-03-15",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -48,10 +48,10 @@
     "dev": false
   },
   {
-    "id": "13546209148",
+    "id": "13546401988",
     "title": "DevNet upgrades to Splice 0.13.3",
-    "start": "2026-03-23",
-    "end": "2026-03-23",
+    "start": "2027-03-22",
+    "end": "2027-03-22",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -64,10 +64,10 @@
     "dev": false
   },
   {
-    "id": "13546191431",
+    "id": "13546406993",
     "title": "DevNet upgrades to Splice 0.13.4",
-    "start": "2026-03-30",
-    "end": "2026-03-30",
+    "start": "2027-03-29",
+    "end": "2027-03-29",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -80,10 +80,10 @@
     "dev": false
   },
   {
-    "id": "13546200219",
+    "id": "13546375220",
     "title": "DevNet New Daml models introduced by Splice 0.13.x take effect",
-    "start": "2026-03-16",
-    "end": "2026-03-16",
+    "start": "2027-03-15",
+    "end": "2027-03-15",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -96,10 +96,10 @@
     "dev": false
   },
   {
-    "id": "13546219605",
-    "title": "DevNet Topology Freeze (0.13 Required) (March 2026)",
-    "start": "2026-03-17",
-    "end": "2026-03-17",
+    "id": "13546407063",
+    "title": "DevNet Topology Freeze (0.13 Required) (March 2027)",
+    "start": "2027-03-16",
+    "end": "2027-03-16",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -112,10 +112,10 @@
     "dev": false
   },
   {
-    "id": "13546311094",
-    "title": "DevNet LSU (0.13 Required) (March 2026)",
-    "start": "2026-03-18",
-    "end": "2026-03-18",
+    "id": "13546432971",
+    "title": "DevNet LSU (0.13 Required) (March 2027)",
+    "start": "2027-03-17",
+    "end": "2027-03-17",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -128,10 +128,10 @@
     "dev": false
   },
   {
-    "id": "13546248112",
+    "id": "13546406964",
     "title": "DevNet Breaking Config Changes (0.13 Required)",
-    "start": "2026-03-24",
-    "end": "2026-03-24",
+    "start": "2027-03-23",
+    "end": "2027-03-23",
     "description": "",
     "status": "NEW",
     "network": "DevNet",
@@ -144,10 +144,10 @@
     "dev": false
   },
   {
-    "id": "13546311917",
+    "id": "13546396588",
     "title": "TestNet upgrades to Splice 0.13.0",
-    "start": "2026-03-09",
-    "end": "2026-03-09",
+    "start": "2027-03-08",
+    "end": "2027-03-08",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -160,10 +160,10 @@
     "dev": false
   },
   {
-    "id": "13546195558",
+    "id": "13546375944",
     "title": "TestNet upgrades to Splice 0.13.1",
-    "start": "2026-03-16",
-    "end": "2026-03-16",
+    "start": "2027-03-15",
+    "end": "2027-03-15",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -176,10 +176,10 @@
     "dev": false
   },
   {
-    "id": "13546214829",
+    "id": "13546391720",
     "title": "TestNet upgrades to Splice 0.13.2",
-    "start": "2026-03-23",
-    "end": "2026-03-23",
+    "start": "2027-03-22",
+    "end": "2027-03-22",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -192,10 +192,10 @@
     "dev": false
   },
   {
-    "id": "13546238520",
+    "id": "13546406985",
     "title": "TestNet upgrades to Splice 0.13.3",
-    "start": "2026-03-30",
-    "end": "2026-03-30",
+    "start": "2027-03-29",
+    "end": "2027-03-29",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -208,10 +208,10 @@
     "dev": false
   },
   {
-    "id": "13546188956",
+    "id": "13546410848",
     "title": "TestNet upgrades to Splice 0.13.4",
-    "start": "2026-04-06",
-    "end": "2026-04-06",
+    "start": "2027-04-05",
+    "end": "2027-04-05",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -224,10 +224,10 @@
     "dev": false
   },
   {
-    "id": "13546201591",
+    "id": "13546375608",
     "title": "TestNet New Daml models introduced by Splice 0.13.x take effect",
-    "start": "2026-03-23",
-    "end": "2026-03-23",
+    "start": "2027-03-22",
+    "end": "2027-03-22",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -240,10 +240,10 @@
     "dev": false
   },
   {
-    "id": "13546213685",
-    "title": "TestNet Topology Freeze (0.13 Required) (March 2026)",
-    "start": "2026-03-24",
-    "end": "2026-03-24",
+    "id": "13546407319",
+    "title": "TestNet Topology Freeze (0.13 Required) (March 2027)",
+    "start": "2027-03-23",
+    "end": "2027-03-23",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -256,10 +256,10 @@
     "dev": false
   },
   {
-    "id": "13546235977",
-    "title": "TestNet LSU (0.13 Required) (March 2026)",
-    "start": "2026-03-25",
-    "end": "2026-03-25",
+    "id": "13546432823",
+    "title": "TestNet LSU (0.13 Required) (March 2027)",
+    "start": "2027-03-24",
+    "end": "2027-03-24",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -272,10 +272,10 @@
     "dev": false
   },
   {
-    "id": "13546225683",
+    "id": "13546407128",
     "title": "TestNet Breaking Config Changes (0.13 Required)",
-    "start": "2026-03-31",
-    "end": "2026-03-31",
+    "start": "2027-03-30",
+    "end": "2027-03-30",
     "description": "",
     "status": "NEW",
     "network": "TestNet",
@@ -288,10 +288,10 @@
     "dev": false
   },
   {
-    "id": "13546310462",
+    "id": "13546379265",
     "title": "MainNet upgrades to Splice 0.13.0",
-    "start": "2026-03-16",
-    "end": "2026-03-16",
+    "start": "2027-03-15",
+    "end": "2027-03-15",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -304,10 +304,10 @@
     "dev": false
   },
   {
-    "id": "13546194802",
+    "id": "13546410626",
     "title": "MainNet upgrades to Splice 0.13.1",
-    "start": "2026-03-23",
-    "end": "2026-03-23",
+    "start": "2027-03-22",
+    "end": "2027-03-22",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -320,10 +320,10 @@
     "dev": false
   },
   {
-    "id": "13546202804",
+    "id": "13546410666",
     "title": "MainNet upgrades to Splice 0.13.2",
-    "start": "2026-03-30",
-    "end": "2026-03-30",
+    "start": "2027-03-29",
+    "end": "2027-03-29",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -336,10 +336,10 @@
     "dev": false
   },
   {
-    "id": "13546219410",
+    "id": "13546424610",
     "title": "MainNet upgrades to Splice 0.13.3",
-    "start": "2026-04-06",
-    "end": "2026-04-06",
+    "start": "2027-04-05",
+    "end": "2027-04-05",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -352,10 +352,10 @@
     "dev": false
   },
   {
-    "id": "13546311098",
+    "id": "13546410673",
     "title": "MainNet upgrades to Splice 0.13.4",
-    "start": "2026-04-13",
-    "end": "2026-04-13",
+    "start": "2027-04-12",
+    "end": "2027-04-12",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -368,10 +368,10 @@
     "dev": false
   },
   {
-    "id": "13546203035",
+    "id": "13546391846",
     "title": "MainNet New Daml models introduced by Splice 0.13.x take effect",
-    "start": "2026-03-30",
-    "end": "2026-03-30",
+    "start": "2027-03-29",
+    "end": "2027-03-29",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -384,10 +384,10 @@
     "dev": false
   },
   {
-    "id": "13546213159",
+    "id": "13546407438",
     "title": "MainNet Topology Freeze (0.13)",
-    "start": "2026-04-03",
-    "end": "2026-04-03",
+    "start": "2027-04-02",
+    "end": "2027-04-02",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -400,10 +400,10 @@
     "dev": false
   },
   {
-    "id": "13546219418",
-    "title": "MainNet LSU (0.13 Required) (April 2026)",
-    "start": "2026-04-04",
-    "end": "2026-04-04",
+    "id": "13546389859",
+    "title": "MainNet LSU (0.13 Required) (April 2027)",
+    "start": "2027-04-03",
+    "end": "2027-04-03",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -416,10 +416,10 @@
     "dev": false
   },
   {
-    "id": "13546236561",
+    "id": "13546396696",
     "title": "MainNet Breaking Config Changes (0.13 Required)",
-    "start": "2026-04-07",
-    "end": "2026-04-07",
+    "start": "2027-04-06",
+    "end": "2027-04-06",
     "description": "",
     "status": "NEW",
     "network": "MainNet",
@@ -432,10 +432,10 @@
     "dev": false
   },
   {
-    "id": "13546248371",
+    "id": "13546380042",
     "title": "Cut Splice 0.13.0",
-    "start": "2026-02-26",
-    "end": "2026-02-26",
+    "start": "2027-02-25",
+    "end": "2027-02-25",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -448,10 +448,10 @@
     "dev": true
   },
   {
-    "id": "13546231382",
+    "id": "13546407028",
     "title": "Cut Canton & WG releases for Splice 0.13.0",
-    "start": "2026-02-25",
-    "end": "2026-02-25",
+    "start": "2027-02-24",
+    "end": "2027-02-24",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -464,10 +464,10 @@
     "dev": true
   },
   {
-    "id": "13546311101",
+    "id": "13546389865",
     "title": "Cut Splice 0.13.1",
-    "start": "2026-03-05",
-    "end": "2026-03-05",
+    "start": "2027-03-04",
+    "end": "2027-03-04",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -480,10 +480,10 @@
     "dev": true
   },
   {
-    "id": "13546189228",
+    "id": "13546410726",
     "title": "Cut Canton & WG releases for Splice 0.13.1",
-    "start": "2026-03-04",
-    "end": "2026-03-04",
+    "start": "2027-03-03",
+    "end": "2027-03-03",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -496,10 +496,10 @@
     "dev": true
   },
   {
-    "id": "13546196716",
+    "id": "13546380320",
     "title": "Cut Splice 0.13.2",
-    "start": "2026-03-12",
-    "end": "2026-03-12",
+    "start": "2027-03-11",
+    "end": "2027-03-11",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -512,10 +512,10 @@
     "dev": true
   },
   {
-    "id": "13546238358",
+    "id": "13546410715",
     "title": "Cut Canton & WG releases for Splice 0.13.2",
-    "start": "2026-03-11",
-    "end": "2026-03-11",
+    "start": "2027-03-10",
+    "end": "2027-03-10",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -528,10 +528,10 @@
     "dev": true
   },
   {
-    "id": "13546223307",
+    "id": "13546395523",
     "title": "Cut Splice 0.13.3",
-    "start": "2026-03-19",
-    "end": "2026-03-19",
+    "start": "2027-03-18",
+    "end": "2027-03-18",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -544,10 +544,10 @@
     "dev": true
   },
   {
-    "id": "13546248699",
+    "id": "13546407326",
     "title": "Cut Canton & WG releases for Splice 0.13.3",
-    "start": "2026-03-18",
-    "end": "2026-03-18",
+    "start": "2027-03-17",
+    "end": "2027-03-17",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -560,10 +560,10 @@
     "dev": true
   },
   {
-    "id": "13546236494",
+    "id": "13546409156",
     "title": "Cut Splice 0.13.4",
-    "start": "2026-03-26",
-    "end": "2026-03-26",
+    "start": "2027-03-25",
+    "end": "2027-03-25",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -576,10 +576,10 @@
     "dev": true
   },
   {
-    "id": "13546223308",
+    "id": "13546410969",
     "title": "Cut Canton & WG releases for Splice 0.13.4",
-    "start": "2026-03-25",
-    "end": "2026-03-25",
+    "start": "2027-03-24",
+    "end": "2027-03-24",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -592,10 +592,10 @@
     "dev": true
   },
   {
-    "id": "13546188711",
+    "id": "13546425981",
     "title": "Canton version for Splice 0.13.0 deployed to CILR",
-    "start": "2026-02-16",
-    "end": "2026-02-16",
+    "start": "2027-02-15",
+    "end": "2027-02-15",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -608,10 +608,10 @@
     "dev": true
   },
   {
-    "id": "13546226035",
+    "id": "13546410732",
     "title": "CILR Daml votes for Splice 0.13.x",
-    "start": "2026-02-26",
-    "end": "2026-02-26",
+    "start": "2027-02-25",
+    "end": "2027-02-25",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -624,10 +624,10 @@
     "dev": true
   },
   {
-    "id": "13546252606",
+    "id": "13546390004",
     "title": "CILR LSU for Splice 0.13.0",
-    "start": "2026-02-23",
-    "end": "2026-02-23",
+    "start": "2027-02-22",
+    "end": "2027-02-22",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -640,10 +640,10 @@
     "dev": true
   },
   {
-    "id": "13546236451",
+    "id": "13546425148",
     "title": "Splice Upgrades to new Canton minor release Line for Splice 0.13.0",
-    "start": "2026-02-11",
-    "end": "2026-02-11",
+    "start": "2027-02-10",
+    "end": "2027-02-10",
     "description": "",
     "status": "NEW",
     "network": "",
@@ -656,10 +656,10 @@
     "dev": true
   },
   {
-    "id": "13546252926",
+    "id": "13546407344",
     "title": "Cut Canton & WG release line for Splice 0.13.0",
-    "start": "2026-02-10",
-    "end": "2026-02-10",
+    "start": "2027-02-09",
+    "end": "2027-02-09",
     "description": "",
     "status": "NEW",
     "network": "",
